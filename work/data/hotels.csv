@@ -1,0 +1,1001 @@
+id,name,city,country,category,lat,long
+1,Palace Mar de Alboran 1,Estoril,Portugal,6,38.70571,-9.39773
+2,Casona Mira Sierra 2,Cannes,France,1,43.55135,7.01275
+3,Vincy Los Escudos 3,Florencia,Italy,1,43.77925,11.24626
+4,Hostal Ritz 4,Palermo,Italy,4,38.13205,13.33561
+5,Parador Magenta 5,Cascais,Portugal,1,38.6979,-9.42146
+6,Melia Luxor 6,Lyon,France,1,45.74846,4.84671
+7,Casa Los Escudos 7,Porto,Portugal,3,41.14961,-8.61099
+8,Maison Los Pinos 8,Paris,France,1,48.85341,2.3488
+9,Aparta Hotel Vacaciones 9,Cascais,Portugal,5,38.6979,-9.42146
+10,Melia Garcia 10,Florencia,Italy,2,43.77925,11.24626
+11,Hotel Ciudad del Sol 11,Palermo,Italy,1,38.13205,13.33561
+12,Vincy Vacaciones 12,Sevilla,Spain,6,37.39141,-5.9591775
+13,Parador Lavapies 13,Estoril,Portugal,1,38.70571,-9.39773
+14,Melia Puerta de Hierro 14,Nice,France,1,43.70313,7.26608
+15,Petit Hotel Sol 15,Madrid,Spain,3,40.489353,-3.6827462
+16,Castillo Los Pinos 16,Milan,Italy,1,45.46427,9.18951
+17,Casa Plaza Mayor 17,Sevilla,Spain,6,37.39141,-5.9591775
+18,Hostal Plaza Mayor 18,Nantes,France,5,47.21725,-1.55336
+19,Castillo Mar de Alboran 19,Valencia,Spain,4,39.456116,-0.3545661
+20,Casona Ciudad del Sol 20,Estoril,Portugal,1,38.70571,-9.39773
+21,Hotel Magenta 21,Nantes,France,1,47.21725,-1.55336
+22,Petit Hotel Sol 22,Barcelona,Spain,1,41.3818,2.1685
+23,Melia Maravillas 23,Paris,France,1,48.85341,2.3488
+24,Parador Los Tilos 24,Lyon,France,6,45.74846,4.84671
+25,Palace Mar de Alboran 25,Cannes,France,6,43.55135,7.01275
+26,Aparta Hotel Sol 26,Bourdeaux,France,1,44.84044,-0.5805
+27,Castillo Maravillas 27,Lyon,France,6,45.74846,4.84671
+28,Castillo International 28,Milan,Italy,6,45.46427,9.18951
+29,Maison Lavapies 29,Nantes,France,1,47.21725,-1.55336
+30,Hotelito Uria 30,Lisboa,Portugal,1,38.71667,-9.13333
+31,Aparta Hotel Puerta de Hierro 31,Nantes,France,3,47.21725,-1.55336
+32,Vincy Los Escudos 32,Florencia,Italy,6,43.77925,11.24626
+33,Hotelito Plaza Mayor 33,Madrid,Spain,1,40.489353,-3.6827462
+34,Aparta Hotel Puerta Bonita 34,Salamanca,Spain,6,40.955967,-5.6802244
+35,Casa International 35,Milan,Italy,5,45.46427,9.18951
+36,Petit Hotel International 36,Palermo,Italy,6,38.13205,13.33561
+37,Petit Hotel Orus 37,Nice,France,1,43.70313,7.26608
+38,Casona Puerta Bonita 38,Nice,France,6,43.70313,7.26608
+39,Casa Ritz 39,Salamanca,Spain,4,40.955967,-5.6802244
+40,Maison Puerta de Hierro 40,Porto,Portugal,1,41.14961,-8.61099
+41,Hostal Los Pinos 41,Palermo,Italy,1,38.13205,13.33561
+42,Castillo Ciudad del Sol 42,Milan,Italy,6,45.46427,9.18951
+43,Melia Mira Sierra 43,Palermo,Italy,2,38.13205,13.33561
+44,Hotelito Garcia 44,Sevilla,Spain,1,37.39141,-5.9591775
+45,Hostal Mira Sierra 45,Lisboa,Portugal,3,38.71667,-9.13333
+46,Hotel Mira Sierra 46,Lyon,France,6,45.74846,4.84671
+47,Casa Sol 47,Palermo,Italy,3,38.13205,13.33561
+48,Melia International 48,Milan,Italy,6,45.46427,9.18951
+49,Casona Uria 49,Lyon,France,1,45.74846,4.84671
+50,Melia Garcia 50,Nantes,France,1,47.21725,-1.55336
+51,Melia Los Tilos 51,Milan,Italy,5,45.46427,9.18951
+52,Hotel Paraiso 52,Rome,Italy,3,41.89193,12.51133
+53,Hotelito Los Tilos 53,Porto,Portugal,6,41.14961,-8.61099
+54,Hostal Luxor 54,Barcelona,Spain,3,41.3818,2.1685
+55,Aparta Hotel Las Letras 55,Milan,Italy,1,45.46427,9.18951
+56,Hotel International 56,Paris,France,1,48.85341,2.3488
+57,Casona Puerta de Hierro 57,Cannes,France,5,43.55135,7.01275
+58,Melia Maravillas 58,Barcelona,Spain,6,41.3818,2.1685
+59,Petit Hotel Sol 59,Florencia,Italy,4,43.77925,11.24626
+60,Hotel Uria 60,Barcelona,Spain,2,41.3818,2.1685
+61,Vincy Las Letras 61,Estoril,Portugal,6,38.70571,-9.39773
+62,Melia Los Tilos 62,Nantes,France,6,47.21725,-1.55336
+63,Melia Magenta 63,Milan,Italy,4,45.46427,9.18951
+64,Castillo Vacaciones 64,Madrid,Spain,1,40.489353,-3.6827462
+65,Hotel Ritz 65,Porto,Portugal,1,41.14961,-8.61099
+66,Vincy Luxor 66,Valencia,Spain,1,39.456116,-0.3545661
+67,Castillo Ciudad del Sol 67,Valencia,Spain,1,39.456116,-0.3545661
+68,Melia Garcia 68,Cannes,France,5,43.55135,7.01275
+69,Palace International 69,Sevilla,Spain,1,37.39141,-5.9591775
+70,Vincy Ritz 70,Paris,France,5,48.85341,2.3488
+71,Hotelito Vacaciones 71,Barcelona,Spain,1,41.3818,2.1685
+72,Petit Hotel Orus 72,Madrid,Spain,1,40.489353,-3.6827462
+73,Parador International 73,Estoril,Portugal,1,38.70571,-9.39773
+74,Melia Ciudad del Sol 74,Valencia,Spain,5,39.456116,-0.3545661
+75,Petit Hotel Los Escudos 75,Nantes,France,6,47.21725,-1.55336
+76,Maison Mira Sierra 76,Cannes,France,1,43.55135,7.01275
+77,Aparta Hotel Maravillas 77,Lisboa,Portugal,1,38.71667,-9.13333
+78,Hostal Puerta de Hierro 78,Bourdeaux,France,3,44.84044,-0.5805
+79,Castillo Maravillas 79,Nice,France,3,43.70313,7.26608
+80,Melia Plaza Mayor 80,Cascais,Portugal,4,38.6979,-9.42146
+81,Hotelito Sol 81,Sevilla,Spain,5,37.39141,-5.9591775
+82,Aparta Hotel Uria 82,Milan,Italy,6,45.46427,9.18951
+83,Aparta Hotel Bit 83,Rome,Italy,1,41.89193,12.51133
+84,Casona Uria 84,Bourdeaux,France,6,44.84044,-0.5805
+85,Palace Magenta 85,Porto,Portugal,3,41.14961,-8.61099
+86,Castillo Sol 86,Barcelona,Spain,1,41.3818,2.1685
+87,Melia Orus 87,Estoril,Portugal,5,38.70571,-9.39773
+88,Maison Garcia 88,Estoril,Portugal,1,38.70571,-9.39773
+89,Castillo Puerta Bonita 89,Sevilla,Spain,4,37.39141,-5.9591775
+90,Hostal Mar de Alboran 90,Nice,France,3,43.70313,7.26608
+91,Vincy Maravillas 91,Sevilla,Spain,1,37.39141,-5.9591775
+92,Aparta Hotel Ciudad del Sol 92,Estoril,Portugal,6,38.70571,-9.39773
+93,Petit Hotel International 93,Nantes,France,4,47.21725,-1.55336
+94,Palace Luxor 94,Barcelona,Spain,6,41.3818,2.1685
+95,Casa Mira Sierra 95,Palermo,Italy,6,38.13205,13.33561
+96,Hostal Uria 96,Cascais,Portugal,6,38.6979,-9.42146
+97,Aparta Hotel Uria 97,Florencia,Italy,5,43.77925,11.24626
+98,Melia Lavapies 98,Sevilla,Spain,6,37.39141,-5.9591775
+99,Casona Puerta Bonita 99,Cascais,Portugal,1,38.6979,-9.42146
+100,Maison Lavapies 100,Florencia,Italy,1,43.77925,11.24626
+101,Melia Mar de Alboran 101,Estoril,Portugal,6,38.70571,-9.39773
+102,Hotel Puerta de Hierro 102,Milan,Italy,2,45.46427,9.18951
+103,Aparta Hotel Los Tilos 103,Milan,Italy,1,45.46427,9.18951
+104,Petit Hotel Bit 104,Bourdeaux,France,6,44.84044,-0.5805
+105,Castillo Ciudad del Sol 105,Salamanca,Spain,1,40.955967,-5.6802244
+106,Petit Hotel Uria 106,Nice,France,1,43.70313,7.26608
+107,Parador Los Tilos 107,Nantes,France,1,47.21725,-1.55336
+108,Hotel Garcia 108,Estoril,Portugal,1,38.70571,-9.39773
+109,Vincy International 109,Cascais,Portugal,1,38.6979,-9.42146
+110,Melia Sol 110,Valencia,Spain,6,39.456116,-0.3545661
+111,Palace Magenta 111,Porto,Portugal,2,41.14961,-8.61099
+112,Vincy Puerta Bonita 112,Bourdeaux,France,3,44.84044,-0.5805
+113,Casona Luxor 113,Florencia,Italy,6,43.77925,11.24626
+114,Petit Hotel Puerta Bonita 114,Rome,Italy,1,41.89193,12.51133
+115,Casa International 115,Nice,France,1,43.70313,7.26608
+116,Castillo Mira Sierra 116,Cannes,France,3,43.55135,7.01275
+117,Casona Vacaciones 117,Salamanca,Spain,1,40.955967,-5.6802244
+118,Melia Orus 118,Lisboa,Portugal,1,38.71667,-9.13333
+119,Casa International 119,Valencia,Spain,1,39.456116,-0.3545661
+120,Parador Paraiso 120,Valencia,Spain,1,39.456116,-0.3545661
+121,Vincy Bit 121,Sevilla,Spain,6,37.39141,-5.9591775
+122,Palace Puerta Bonita 122,Barcelona,Spain,1,41.3818,2.1685
+123,Palace Orus 123,Porto,Portugal,4,41.14961,-8.61099
+124,Casa Luxor 124,Barcelona,Spain,1,41.3818,2.1685
+125,Casona Paraiso 125,Lisboa,Portugal,1,38.71667,-9.13333
+126,Castillo Paraiso 126,Paris,France,1,48.85341,2.3488
+127,Palace International 127,Florencia,Italy,6,43.77925,11.24626
+128,Maison Uria 128,Estoril,Portugal,6,38.70571,-9.39773
+129,Hotelito Plaza Mayor 129,Lyon,France,3,45.74846,4.84671
+130,Parador Puerta Bonita 130,Sevilla,Spain,1,37.39141,-5.9591775
+131,Hostal Luxor 131,Cascais,Portugal,5,38.6979,-9.42146
+132,Palace Magenta 132,Porto,Portugal,1,41.14961,-8.61099
+133,Castillo Ciudad del Sol 133,Salamanca,Spain,5,40.955967,-5.6802244
+134,Casona Garcia 134,Milan,Italy,1,45.46427,9.18951
+135,Melia Ritz 135,Madrid,Spain,1,40.489353,-3.6827462
+136,Casa Ciudad del Sol 136,Sevilla,Spain,6,37.39141,-5.9591775
+137,Vincy Paraiso 137,Salamanca,Spain,6,40.955967,-5.6802244
+138,Hotelito Bit 138,Rome,Italy,1,41.89193,12.51133
+139,Aparta Hotel Los Pinos 139,Paris,France,6,48.85341,2.3488
+140,Hotel Los Escudos 140,Florencia,Italy,6,43.77925,11.24626
+141,Casona Uria 141,Sevilla,Spain,3,37.39141,-5.9591775
+142,Melia Plaza Mayor 142,Estoril,Portugal,2,38.70571,-9.39773
+143,Hostal Vacaciones 143,Lisboa,Portugal,2,38.71667,-9.13333
+144,Maison Magenta 144,Florencia,Italy,6,43.77925,11.24626
+145,Parador Los Pinos 145,Milan,Italy,1,45.46427,9.18951
+146,Vincy Lavapies 146,Cascais,Portugal,2,38.6979,-9.42146
+147,Castillo Los Pinos 147,Sevilla,Spain,2,37.39141,-5.9591775
+148,Hotel Lavapies 148,Salamanca,Spain,1,40.955967,-5.6802244
+149,Parador Ritz 149,Valencia,Spain,3,39.456116,-0.3545661
+150,Hostal Las Letras 150,Valencia,Spain,2,39.456116,-0.3545661
+151,Castillo Mar de Alboran 151,Barcelona,Spain,3,41.3818,2.1685
+152,Castillo International 152,Lisboa,Portugal,1,38.71667,-9.13333
+153,Casona Las Letras 153,Salamanca,Spain,1,40.955967,-5.6802244
+154,Maison International 154,Nice,France,1,43.70313,7.26608
+155,Vincy Sol 155,Paris,France,6,48.85341,2.3488
+156,Palace Sol 156,Rome,Italy,6,41.89193,12.51133
+157,Hotel International 157,Sevilla,Spain,4,37.39141,-5.9591775
+158,Maison Los Pinos 158,Cannes,France,5,43.55135,7.01275
+159,Melia Garcia 159,Lyon,France,2,45.74846,4.84671
+160,Castillo Maravillas 160,Florencia,Italy,1,43.77925,11.24626
+161,Casona Ciudad del Sol 161,Madrid,Spain,1,40.489353,-3.6827462
+162,Hotel Mira Sierra 162,Salamanca,Spain,3,40.955967,-5.6802244
+163,Aparta Hotel Luxor 163,Milan,Italy,1,45.46427,9.18951
+164,Hotel Paraiso 164,Barcelona,Spain,6,41.3818,2.1685
+165,Casona Bit 165,Salamanca,Spain,4,40.955967,-5.6802244
+166,Vincy Mar de Alboran 166,Cascais,Portugal,1,38.6979,-9.42146
+167,Hotelito Vacaciones 167,Cannes,France,6,43.55135,7.01275
+168,Maison Luxor 168,Lisboa,Portugal,1,38.71667,-9.13333
+169,Castillo Sol 169,Cannes,France,5,43.55135,7.01275
+170,Palace Los Pinos 170,Valencia,Spain,1,39.456116,-0.3545661
+171,Melia Puerta de Hierro 171,Nantes,France,6,47.21725,-1.55336
+172,Casa Las Letras 172,Nice,France,1,43.70313,7.26608
+173,Palace Orus 173,Rome,Italy,6,41.89193,12.51133
+174,Petit Hotel Bit 174,Madrid,Spain,6,40.489353,-3.6827462
+175,Maison Paraiso 175,Barcelona,Spain,1,41.3818,2.1685
+176,Melia Magenta 176,Estoril,Portugal,1,38.70571,-9.39773
+177,Castillo Paraiso 177,Porto,Portugal,6,41.14961,-8.61099
+178,Petit Hotel Sol 178,Lisboa,Portugal,1,38.71667,-9.13333
+179,Vincy Vacaciones 179,Lyon,France,2,45.74846,4.84671
+180,Casa Mar de Alboran 180,Salamanca,Spain,1,40.955967,-5.6802244
+181,Hotel Garcia 181,Paris,France,1,48.85341,2.3488
+182,Palace Mira Sierra 182,Valencia,Spain,6,39.456116,-0.3545661
+183,Parador Plaza Mayor 183,Nantes,France,6,47.21725,-1.55336
+184,Petit Hotel Ciudad del Sol 184,Bourdeaux,France,6,44.84044,-0.5805
+185,Casa Vacaciones 185,Bourdeaux,France,1,44.84044,-0.5805
+186,Petit Hotel Lavapies 186,Lisboa,Portugal,6,38.71667,-9.13333
+187,Maison Los Pinos 187,Sevilla,Spain,3,37.39141,-5.9591775
+188,Casona Paraiso 188,Lisboa,Portugal,3,38.71667,-9.13333
+189,Hotelito Los Escudos 189,Salamanca,Spain,1,40.955967,-5.6802244
+190,Maison Ritz 190,Estoril,Portugal,1,38.70571,-9.39773
+191,Aparta Hotel Orus 191,Estoril,Portugal,1,38.70571,-9.39773
+192,Hotel Los Tilos 192,Sevilla,Spain,3,37.39141,-5.9591775
+193,Maison Plaza Mayor 193,Bourdeaux,France,6,44.84044,-0.5805
+194,Parador Los Pinos 194,Valencia,Spain,6,39.456116,-0.3545661
+195,Vincy Magenta 195,Paris,France,1,48.85341,2.3488
+196,Hotelito Ciudad del Sol 196,Palermo,Italy,1,38.13205,13.33561
+197,Vincy Los Tilos 197,Barcelona,Spain,1,41.3818,2.1685
+198,Parador Puerta de Hierro 198,Cascais,Portugal,4,38.6979,-9.42146
+199,Hostal Plaza Mayor 199,Milan,Italy,6,45.46427,9.18951
+200,Aparta Hotel Paraiso 200,Estoril,Portugal,1,38.70571,-9.39773
+201,Melia Los Pinos 201,Madrid,Spain,6,40.489353,-3.6827462
+202,Maison Ritz 202,Paris,France,3,48.85341,2.3488
+203,Hostal Mar de Alboran 203,Cannes,France,1,43.55135,7.01275
+204,Hostal Mar de Alboran 204,Madrid,Spain,6,40.489353,-3.6827462
+205,Melia Ritz 205,Cannes,France,1,43.55135,7.01275
+206,Vincy Bit 206,Rome,Italy,2,41.89193,12.51133
+207,Aparta Hotel Luxor 207,Salamanca,Spain,1,40.955967,-5.6802244
+208,Parador International 208,Nice,France,6,43.70313,7.26608
+209,Castillo Mar de Alboran 209,Cascais,Portugal,1,38.6979,-9.42146
+210,Aparta Hotel Sol 210,Nantes,France,1,47.21725,-1.55336
+211,Maison Las Letras 211,Porto,Portugal,5,41.14961,-8.61099
+212,Palace International 212,Lisboa,Portugal,6,38.71667,-9.13333
+213,Petit Hotel Los Tilos 213,Madrid,Spain,4,40.489353,-3.6827462
+214,Palace Garcia 214,Milan,Italy,3,45.46427,9.18951
+215,Casona Uria 215,Estoril,Portugal,1,38.70571,-9.39773
+216,Aparta Hotel Orus 216,Cascais,Portugal,6,38.6979,-9.42146
+217,Aparta Hotel Puerta Bonita 217,Lyon,France,6,45.74846,4.84671
+218,Castillo Garcia 218,Valencia,Spain,1,39.456116,-0.3545661
+219,Petit Hotel Sol 219,Cannes,France,4,43.55135,7.01275
+220,Vincy Plaza Mayor 220,Cannes,France,1,43.55135,7.01275
+221,Casa Vacaciones 221,Salamanca,Spain,1,40.955967,-5.6802244
+222,Maison Ritz 222,Florencia,Italy,1,43.77925,11.24626
+223,Aparta Hotel Mira Sierra 223,Lyon,France,1,45.74846,4.84671
+224,Castillo Ritz 224,Porto,Portugal,1,41.14961,-8.61099
+225,Hotelito Paraiso 225,Milan,Italy,6,45.46427,9.18951
+226,Hostal Los Escudos 226,Lyon,France,1,45.74846,4.84671
+227,Vincy Mira Sierra 227,Porto,Portugal,4,41.14961,-8.61099
+228,Hotel Puerta Bonita 228,Rome,Italy,6,41.89193,12.51133
+229,Parador Garcia 229,Bourdeaux,France,1,44.84044,-0.5805
+230,Hotel Los Pinos 230,Lyon,France,1,45.74846,4.84671
+231,Maison Paraiso 231,Valencia,Spain,5,39.456116,-0.3545661
+232,Vincy Plaza Mayor 232,Lyon,France,1,45.74846,4.84671
+233,Maison Puerta de Hierro 233,Milan,Italy,4,45.46427,9.18951
+234,Maison Lavapies 234,Palermo,Italy,5,38.13205,13.33561
+235,Hostal Orus 235,Paris,France,1,48.85341,2.3488
+236,Aparta Hotel Vacaciones 236,Porto,Portugal,1,41.14961,-8.61099
+237,Castillo Sol 237,Barcelona,Spain,6,41.3818,2.1685
+238,Casona Ritz 238,Lisboa,Portugal,6,38.71667,-9.13333
+239,Hostal Los Escudos 239,Nantes,France,4,47.21725,-1.55336
+240,Melia Puerta de Hierro 240,Paris,France,6,48.85341,2.3488
+241,Petit Hotel Orus 241,Florencia,Italy,1,43.77925,11.24626
+242,Vincy Mar de Alboran 242,Bourdeaux,France,6,44.84044,-0.5805
+243,Hostal Ciudad del Sol 243,Cannes,France,1,43.55135,7.01275
+244,Casa Garcia 244,Paris,France,1,48.85341,2.3488
+245,Parador Uria 245,Rome,Italy,6,41.89193,12.51133
+246,Aparta Hotel Mira Sierra 246,Barcelona,Spain,1,41.3818,2.1685
+247,Casona Garcia 247,Cascais,Portugal,6,38.6979,-9.42146
+248,Hotelito Magenta 248,Paris,France,5,48.85341,2.3488
+249,Castillo Mar de Alboran 249,Lisboa,Portugal,6,38.71667,-9.13333
+250,Aparta Hotel Las Letras 250,Sevilla,Spain,5,37.39141,-5.9591775
+251,Aparta Hotel Los Pinos 251,Estoril,Portugal,3,38.70571,-9.39773
+252,Aparta Hotel Sol 252,Sevilla,Spain,5,37.39141,-5.9591775
+253,Hotel Los Pinos 253,Rome,Italy,1,41.89193,12.51133
+254,Vincy Uria 254,Lisboa,Portugal,1,38.71667,-9.13333
+255,Vincy Los Pinos 255,Porto,Portugal,6,41.14961,-8.61099
+256,Petit Hotel Ciudad del Sol 256,Paris,France,1,48.85341,2.3488
+257,Maison Paraiso 257,Cascais,Portugal,6,38.6979,-9.42146
+258,Casa Ciudad del Sol 258,Bourdeaux,France,3,44.84044,-0.5805
+259,Melia Puerta de Hierro 259,Lisboa,Portugal,1,38.71667,-9.13333
+260,Hotelito Uria 260,Palermo,Italy,2,38.13205,13.33561
+261,Maison Ciudad del Sol 261,Estoril,Portugal,6,38.70571,-9.39773
+262,Aparta Hotel Vacaciones 262,Cannes,France,1,43.55135,7.01275
+263,Casona Mar de Alboran 263,Lyon,France,6,45.74846,4.84671
+264,Palace Los Pinos 264,Barcelona,Spain,1,41.3818,2.1685
+265,Hotelito Ciudad del Sol 265,Milan,Italy,1,45.46427,9.18951
+266,Maison Puerta de Hierro 266,Milan,Italy,4,45.46427,9.18951
+267,Vincy Uria 267,Florencia,Italy,2,43.77925,11.24626
+268,Hotelito Puerta de Hierro 268,Nantes,France,1,47.21725,-1.55336
+269,Castillo Ritz 269,Lisboa,Portugal,4,38.71667,-9.13333
+270,Castillo Lavapies 270,Estoril,Portugal,6,38.70571,-9.39773
+271,Melia Sol 271,Porto,Portugal,1,41.14961,-8.61099
+272,Casona Mira Sierra 272,Lisboa,Portugal,4,38.71667,-9.13333
+273,Petit Hotel Bit 273,Florencia,Italy,5,43.77925,11.24626
+274,Casa Uria 274,Lyon,France,4,45.74846,4.84671
+275,Melia International 275,Salamanca,Spain,6,40.955967,-5.6802244
+276,Aparta Hotel International 276,Nice,France,1,43.70313,7.26608
+277,Casona Maravillas 277,Nantes,France,6,47.21725,-1.55336
+278,Aparta Hotel Plaza Mayor 278,Nantes,France,1,47.21725,-1.55336
+279,Vincy Vacaciones 279,Paris,France,1,48.85341,2.3488
+280,Palace Paraiso 280,Lyon,France,5,45.74846,4.84671
+281,Casona Mira Sierra 281,Madrid,Spain,1,40.489353,-3.6827462
+282,Hotel Uria 282,Lisboa,Portugal,5,38.71667,-9.13333
+283,Vincy Garcia 283,Lyon,France,1,45.74846,4.84671
+284,Hotelito Luxor 284,Cascais,Portugal,1,38.6979,-9.42146
+285,Maison Garcia 285,Palermo,Italy,5,38.13205,13.33561
+286,Hotelito Puerta de Hierro 286,Rome,Italy,1,41.89193,12.51133
+287,Parador Lavapies 287,Porto,Portugal,5,41.14961,-8.61099
+288,Casona Luxor 288,Salamanca,Spain,6,40.955967,-5.6802244
+289,Parador Luxor 289,Bourdeaux,France,2,44.84044,-0.5805
+290,Hotelito Uria 290,Valencia,Spain,3,39.456116,-0.3545661
+291,Parador Vacaciones 291,Cannes,France,4,43.55135,7.01275
+292,Parador Lavapies 292,Cascais,Portugal,1,38.6979,-9.42146
+293,Vincy Sol 293,Cascais,Portugal,6,38.6979,-9.42146
+294,Hotel Magenta 294,Cannes,France,4,43.55135,7.01275
+295,Casona Vacaciones 295,Madrid,Spain,1,40.489353,-3.6827462
+296,Maison Los Tilos 296,Rome,Italy,1,41.89193,12.51133
+297,Hotel Uria 297,Bourdeaux,France,3,44.84044,-0.5805
+298,Castillo Mar de Alboran 298,Salamanca,Spain,1,40.955967,-5.6802244
+299,Casa Los Pinos 299,Nice,France,1,43.70313,7.26608
+300,Hotelito Garcia 300,Nice,France,5,43.70313,7.26608
+301,Vincy Ciudad del Sol 301,Florencia,Italy,4,43.77925,11.24626
+302,Maison Uria 302,Rome,Italy,4,41.89193,12.51133
+303,Hostal Magenta 303,Porto,Portugal,1,41.14961,-8.61099
+304,Aparta Hotel Los Escudos 304,Sevilla,Spain,1,37.39141,-5.9591775
+305,Palace Maravillas 305,Nantes,France,6,47.21725,-1.55336
+306,Hotel Puerta Bonita 306,Rome,Italy,4,41.89193,12.51133
+307,Hostal Los Escudos 307,Lyon,France,1,45.74846,4.84671
+308,Castillo Sol 308,Madrid,Spain,6,40.489353,-3.6827462
+309,Melia Uria 309,Nice,France,6,43.70313,7.26608
+310,Aparta Hotel Puerta de Hierro 310,Nice,France,6,43.70313,7.26608
+311,Casona Los Pinos 311,Nantes,France,1,47.21725,-1.55336
+312,Vincy Luxor 312,Valencia,Spain,2,39.456116,-0.3545661
+313,Petit Hotel Los Tilos 313,Cascais,Portugal,2,38.6979,-9.42146
+314,Casa Los Escudos 314,Nice,France,5,43.70313,7.26608
+315,Petit Hotel Ritz 315,Milan,Italy,3,45.46427,9.18951
+316,Hostal Lavapies 316,Madrid,Spain,6,40.489353,-3.6827462
+317,Casona Sol 317,Madrid,Spain,4,40.489353,-3.6827462
+318,Petit Hotel Las Letras 318,Nantes,France,6,47.21725,-1.55336
+319,Casa Sol 319,Sevilla,Spain,6,37.39141,-5.9591775
+320,Casona Luxor 320,Sevilla,Spain,6,37.39141,-5.9591775
+321,Melia Las Letras 321,Palermo,Italy,1,38.13205,13.33561
+322,Parador Bit 322,Paris,France,3,48.85341,2.3488
+323,Hostal Ritz 323,Cannes,France,6,43.55135,7.01275
+324,Casa Uria 324,Lisboa,Portugal,4,38.71667,-9.13333
+325,Palace Luxor 325,Lyon,France,5,45.74846,4.84671
+326,Castillo Ritz 326,Paris,France,6,48.85341,2.3488
+327,Casa Plaza Mayor 327,Cannes,France,2,43.55135,7.01275
+328,Hostal Las Letras 328,Palermo,Italy,6,38.13205,13.33561
+329,Petit Hotel Los Tilos 329,Paris,France,1,48.85341,2.3488
+330,Casona Plaza Mayor 330,Sevilla,Spain,6,37.39141,-5.9591775
+331,Petit Hotel Puerta Bonita 331,Lisboa,Portugal,6,38.71667,-9.13333
+332,Palace Sol 332,Estoril,Portugal,1,38.70571,-9.39773
+333,Vincy Las Letras 333,Paris,France,6,48.85341,2.3488
+334,Casona Ciudad del Sol 334,Lyon,France,6,45.74846,4.84671
+335,Casona Maravillas 335,Nantes,France,1,47.21725,-1.55336
+336,Vincy Ciudad del Sol 336,Madrid,Spain,1,40.489353,-3.6827462
+337,Petit Hotel Sol 337,Salamanca,Spain,3,40.955967,-5.6802244
+338,Petit Hotel Mira Sierra 338,Porto,Portugal,3,41.14961,-8.61099
+339,Petit Hotel Lavapies 339,Lisboa,Portugal,1,38.71667,-9.13333
+340,Parador Ritz 340,Palermo,Italy,1,38.13205,13.33561
+341,Hostal Sol 341,Barcelona,Spain,1,41.3818,2.1685
+342,Castillo Los Pinos 342,Cascais,Portugal,1,38.6979,-9.42146
+343,Parador Puerta Bonita 343,Lyon,France,1,45.74846,4.84671
+344,Parador Vacaciones 344,Lyon,France,1,45.74846,4.84671
+345,Vincy Vacaciones 345,Paris,France,1,48.85341,2.3488
+346,Hotel International 346,Porto,Portugal,2,41.14961,-8.61099
+347,Melia Uria 347,Milan,Italy,1,45.46427,9.18951
+348,Petit Hotel Paraiso 348,Cascais,Portugal,1,38.6979,-9.42146
+349,Hotel Orus 349,Florencia,Italy,1,43.77925,11.24626
+350,Melia Las Letras 350,Florencia,Italy,1,43.77925,11.24626
+351,Hotelito Las Letras 351,Rome,Italy,2,41.89193,12.51133
+352,Parador Los Escudos 352,Cascais,Portugal,5,38.6979,-9.42146
+353,Vincy Garcia 353,Milan,Italy,4,45.46427,9.18951
+354,Melia Las Letras 354,Salamanca,Spain,4,40.955967,-5.6802244
+355,Castillo Paraiso 355,Sevilla,Spain,1,37.39141,-5.9591775
+356,Castillo Los Pinos 356,Lyon,France,3,45.74846,4.84671
+357,Castillo Ciudad del Sol 357,Porto,Portugal,4,41.14961,-8.61099
+358,Aparta Hotel Los Tilos 358,Valencia,Spain,1,39.456116,-0.3545661
+359,Palace Sol 359,Salamanca,Spain,3,40.955967,-5.6802244
+360,Palace Uria 360,Madrid,Spain,1,40.489353,-3.6827462
+361,Palace International 361,Salamanca,Spain,2,40.955967,-5.6802244
+362,Vincy Plaza Mayor 362,Lyon,France,1,45.74846,4.84671
+363,Maison Garcia 363,Cannes,France,6,43.55135,7.01275
+364,Hotel Mira Sierra 364,Rome,Italy,1,41.89193,12.51133
+365,Melia Los Tilos 365,Cannes,France,1,43.55135,7.01275
+366,Castillo Los Tilos 366,Nice,France,4,43.70313,7.26608
+367,Casona Bit 367,Salamanca,Spain,1,40.955967,-5.6802244
+368,Petit Hotel Ritz 368,Sevilla,Spain,6,37.39141,-5.9591775
+369,Hotel Luxor 369,Salamanca,Spain,1,40.955967,-5.6802244
+370,Casa Lavapies 370,Rome,Italy,1,41.89193,12.51133
+371,Castillo Uria 371,Nice,France,1,43.70313,7.26608
+372,Melia Garcia 372,Madrid,Spain,6,40.489353,-3.6827462
+373,Casa Las Letras 373,Bourdeaux,France,4,44.84044,-0.5805
+374,Vincy Ciudad del Sol 374,Palermo,Italy,1,38.13205,13.33561
+375,Hotel Las Letras 375,Madrid,Spain,6,40.489353,-3.6827462
+376,Casona Ciudad del Sol 376,Madrid,Spain,6,40.489353,-3.6827462
+377,Maison Ritz 377,Barcelona,Spain,6,41.3818,2.1685
+378,Parador Los Tilos 378,Lisboa,Portugal,6,38.71667,-9.13333
+379,Castillo Garcia 379,Milan,Italy,6,45.46427,9.18951
+380,Palace Maravillas 380,Milan,Italy,1,45.46427,9.18951
+381,Castillo Paraiso 381,Porto,Portugal,1,41.14961,-8.61099
+382,Melia Los Pinos 382,Salamanca,Spain,1,40.955967,-5.6802244
+383,Palace Magenta 383,Valencia,Spain,1,39.456116,-0.3545661
+384,Casa Lavapies 384,Lyon,France,4,45.74846,4.84671
+385,Casona Puerta de Hierro 385,Bourdeaux,France,1,44.84044,-0.5805
+386,Palace Mira Sierra 386,Estoril,Portugal,1,38.70571,-9.39773
+387,Hotelito International 387,Lyon,France,1,45.74846,4.84671
+388,Palace Orus 388,Madrid,Spain,6,40.489353,-3.6827462
+389,Palace Magenta 389,Milan,Italy,5,45.46427,9.18951
+390,Vincy Mira Sierra 390,Estoril,Portugal,4,38.70571,-9.39773
+391,Hostal Los Pinos 391,Porto,Portugal,6,41.14961,-8.61099
+392,Parador Lavapies 392,Sevilla,Spain,1,37.39141,-5.9591775
+393,Vincy Bit 393,Palermo,Italy,2,38.13205,13.33561
+394,Aparta Hotel Mar de Alboran 394,Rome,Italy,1,41.89193,12.51133
+395,Casa Vacaciones 395,Lisboa,Portugal,2,38.71667,-9.13333
+396,Melia Luxor 396,Sevilla,Spain,1,37.39141,-5.9591775
+397,Casa International 397,Valencia,Spain,1,39.456116,-0.3545661
+398,Maison Luxor 398,Barcelona,Spain,6,41.3818,2.1685
+399,Petit Hotel Puerta Bonita 399,Cannes,France,1,43.55135,7.01275
+400,Hotelito International 400,Porto,Portugal,6,41.14961,-8.61099
+401,Hotelito Paraiso 401,Cascais,Portugal,3,38.6979,-9.42146
+402,Petit Hotel Sol 402,Bourdeaux,France,1,44.84044,-0.5805
+403,Casona Los Pinos 403,Paris,France,1,48.85341,2.3488
+404,Petit Hotel Maravillas 404,Madrid,Spain,1,40.489353,-3.6827462
+405,Casa Ritz 405,Estoril,Portugal,1,38.70571,-9.39773
+406,Petit Hotel Maravillas 406,Paris,France,1,48.85341,2.3488
+407,Casona Puerta de Hierro 407,Palermo,Italy,6,38.13205,13.33561
+408,Casona International 408,Madrid,Spain,6,40.489353,-3.6827462
+409,Hotelito Magenta 409,Valencia,Spain,6,39.456116,-0.3545661
+410,Maison Luxor 410,Bourdeaux,France,3,44.84044,-0.5805
+411,Maison Maravillas 411,Madrid,Spain,6,40.489353,-3.6827462
+412,Palace Maravillas 412,Paris,France,6,48.85341,2.3488
+413,Maison Sol 413,Paris,France,6,48.85341,2.3488
+414,Castillo Paraiso 414,Rome,Italy,2,41.89193,12.51133
+415,Hotel Plaza Mayor 415,Madrid,Spain,2,40.489353,-3.6827462
+416,Petit Hotel Luxor 416,Estoril,Portugal,6,38.70571,-9.39773
+417,Vincy Las Letras 417,Paris,France,3,48.85341,2.3488
+418,Aparta Hotel Garcia 418,Palermo,Italy,2,38.13205,13.33561
+419,Aparta Hotel Orus 419,Valencia,Spain,1,39.456116,-0.3545661
+420,Hotelito Puerta de Hierro 420,Nice,France,1,43.70313,7.26608
+421,Hotelito Magenta 421,Rome,Italy,1,41.89193,12.51133
+422,Casa Los Pinos 422,Palermo,Italy,6,38.13205,13.33561
+423,Petit Hotel Ciudad del Sol 423,Florencia,Italy,3,43.77925,11.24626
+424,Palace Los Escudos 424,Florencia,Italy,2,43.77925,11.24626
+425,Hotel Garcia 425,Salamanca,Spain,6,40.955967,-5.6802244
+426,Hotel Paraiso 426,Porto,Portugal,4,41.14961,-8.61099
+427,Casa Los Pinos 427,Lisboa,Portugal,6,38.71667,-9.13333
+428,Petit Hotel International 428,Cannes,France,6,43.55135,7.01275
+429,Parador Magenta 429,Madrid,Spain,6,40.489353,-3.6827462
+430,Hostal Orus 430,Rome,Italy,6,41.89193,12.51133
+431,Hostal Los Pinos 431,Nice,France,3,43.70313,7.26608
+432,Hostal Las Letras 432,Porto,Portugal,6,41.14961,-8.61099
+433,Aparta Hotel Orus 433,Florencia,Italy,4,43.77925,11.24626
+434,Melia Magenta 434,Cannes,France,1,43.55135,7.01275
+435,Palace Maravillas 435,Barcelona,Spain,3,41.3818,2.1685
+436,Hotelito Ritz 436,Nice,France,4,43.70313,7.26608
+437,Casona Orus 437,Salamanca,Spain,1,40.955967,-5.6802244
+438,Parador Los Escudos 438,Barcelona,Spain,6,41.3818,2.1685
+439,Hotelito Ciudad del Sol 439,Lisboa,Portugal,1,38.71667,-9.13333
+440,Maison Puerta de Hierro 440,Cascais,Portugal,6,38.6979,-9.42146
+441,Aparta Hotel Los Tilos 441,Barcelona,Spain,6,41.3818,2.1685
+442,Aparta Hotel Los Tilos 442,Cannes,France,6,43.55135,7.01275
+443,Hotel International 443,Cannes,France,1,43.55135,7.01275
+444,Casona Los Tilos 444,Valencia,Spain,6,39.456116,-0.3545661
+445,Casa Puerta Bonita 445,Florencia,Italy,3,43.77925,11.24626
+446,Parador Las Letras 446,Cascais,Portugal,5,38.6979,-9.42146
+447,Petit Hotel Puerta Bonita 447,Paris,France,6,48.85341,2.3488
+448,Hotelito Uria 448,Nice,France,2,43.70313,7.26608
+449,Hotel Mar de Alboran 449,Nice,France,6,43.70313,7.26608
+450,Castillo Mar de Alboran 450,Nice,France,6,43.70313,7.26608
+451,Aparta Hotel Uria 451,Nantes,France,4,47.21725,-1.55336
+452,Parador Puerta Bonita 452,Cannes,France,6,43.55135,7.01275
+453,Petit Hotel Mira Sierra 453,Nice,France,1,43.70313,7.26608
+454,Hotel Maravillas 454,Madrid,Spain,1,40.489353,-3.6827462
+455,Hotel Orus 455,Salamanca,Spain,1,40.955967,-5.6802244
+456,Casa Vacaciones 456,Valencia,Spain,1,39.456116,-0.3545661
+457,Hotel Las Letras 457,Palermo,Italy,5,38.13205,13.33561
+458,Hostal Los Escudos 458,Lyon,France,1,45.74846,4.84671
+459,Melia Los Tilos 459,Barcelona,Spain,1,41.3818,2.1685
+460,Maison Los Pinos 460,Lyon,France,3,45.74846,4.84671
+461,Casona Plaza Mayor 461,Estoril,Portugal,1,38.70571,-9.39773
+462,Hotelito Los Escudos 462,Cannes,France,2,43.55135,7.01275
+463,Hotelito Los Pinos 463,Palermo,Italy,6,38.13205,13.33561
+464,Casona Garcia 464,Florencia,Italy,1,43.77925,11.24626
+465,Maison Puerta Bonita 465,Lyon,France,6,45.74846,4.84671
+466,Hotelito Vacaciones 466,Cannes,France,5,43.55135,7.01275
+467,Petit Hotel Bit 467,Paris,France,4,48.85341,2.3488
+468,Casa Mar de Alboran 468,Bourdeaux,France,2,44.84044,-0.5805
+469,Castillo Ritz 469,Nice,France,1,43.70313,7.26608
+470,Casa International 470,Cascais,Portugal,6,38.6979,-9.42146
+471,Casa Los Pinos 471,Cannes,France,2,43.55135,7.01275
+472,Palace Lavapies 472,Lisboa,Portugal,1,38.71667,-9.13333
+473,Casona Ritz 473,Barcelona,Spain,6,41.3818,2.1685
+474,Hotelito Ciudad del Sol 474,Nice,France,1,43.70313,7.26608
+475,Hotelito Los Tilos 475,Salamanca,Spain,5,40.955967,-5.6802244
+476,Casa Garcia 476,Rome,Italy,3,41.89193,12.51133
+477,Palace Magenta 477,Florencia,Italy,1,43.77925,11.24626
+478,Maison Paraiso 478,Milan,Italy,6,45.46427,9.18951
+479,Castillo Sol 479,Porto,Portugal,1,41.14961,-8.61099
+480,Petit Hotel Puerta de Hierro 480,Nice,France,1,43.70313,7.26608
+481,Hotelito Las Letras 481,Rome,Italy,3,41.89193,12.51133
+482,Parador Paraiso 482,Lyon,France,4,45.74846,4.84671
+483,Maison Ciudad del Sol 483,Lyon,France,3,45.74846,4.84671
+484,Casona Los Pinos 484,Lisboa,Portugal,1,38.71667,-9.13333
+485,Castillo Puerta Bonita 485,Rome,Italy,5,41.89193,12.51133
+486,Casona Vacaciones 486,Valencia,Spain,4,39.456116,-0.3545661
+487,Parador Mira Sierra 487,Paris,France,1,48.85341,2.3488
+488,Melia Ritz 488,Palermo,Italy,1,38.13205,13.33561
+489,Parador Puerta de Hierro 489,Nice,France,2,43.70313,7.26608
+490,Maison Mira Sierra 490,Paris,France,1,48.85341,2.3488
+491,Aparta Hotel Magenta 491,Paris,France,5,48.85341,2.3488
+492,Hotelito Mira Sierra 492,Estoril,Portugal,1,38.70571,-9.39773
+493,Palace Los Escudos 493,Palermo,Italy,3,38.13205,13.33561
+494,Petit Hotel Garcia 494,Madrid,Spain,4,40.489353,-3.6827462
+495,Vincy Luxor 495,Milan,Italy,6,45.46427,9.18951
+496,Vincy Garcia 496,Sevilla,Spain,2,37.39141,-5.9591775
+497,Casa Ritz 497,Milan,Italy,3,45.46427,9.18951
+498,Hotel Los Escudos 498,Salamanca,Spain,6,40.955967,-5.6802244
+499,Casa Puerta de Hierro 499,Valencia,Spain,1,39.456116,-0.3545661
+500,Casa Sol 500,Lyon,France,1,45.74846,4.84671
+501,Vincy Luxor 501,Nice,France,1,43.70313,7.26608
+502,Casona Mira Sierra 502,Madrid,Spain,6,40.489353,-3.6827462
+503,Hotelito Maravillas 503,Sevilla,Spain,1,37.39141,-5.9591775
+504,Hotelito Los Pinos 504,Nice,France,5,43.70313,7.26608
+505,Melia Los Pinos 505,Cascais,Portugal,3,38.6979,-9.42146
+506,Petit Hotel Garcia 506,Estoril,Portugal,6,38.70571,-9.39773
+507,Aparta Hotel Vacaciones 507,Cascais,Portugal,6,38.6979,-9.42146
+508,Hostal Los Tilos 508,Nice,France,1,43.70313,7.26608
+509,Vincy Plaza Mayor 509,Cascais,Portugal,6,38.6979,-9.42146
+510,Palace Mar de Alboran 510,Lisboa,Portugal,6,38.71667,-9.13333
+511,Melia Mar de Alboran 511,Cascais,Portugal,5,38.6979,-9.42146
+512,Casa Mira Sierra 512,Lisboa,Portugal,6,38.71667,-9.13333
+513,Petit Hotel Bit 513,Nantes,France,1,47.21725,-1.55336
+514,Hotelito Los Pinos 514,Valencia,Spain,1,39.456116,-0.3545661
+515,Aparta Hotel Orus 515,Cannes,France,3,43.55135,7.01275
+516,Hotelito Los Pinos 516,Palermo,Italy,1,38.13205,13.33561
+517,Casona Sol 517,Cascais,Portugal,6,38.6979,-9.42146
+518,Castillo Magenta 518,Paris,France,1,48.85341,2.3488
+519,Maison Maravillas 519,Nice,France,3,43.70313,7.26608
+520,Melia Garcia 520,Valencia,Spain,6,39.456116,-0.3545661
+521,Hotelito Las Letras 521,Nice,France,3,43.70313,7.26608
+522,Aparta Hotel Los Pinos 522,Porto,Portugal,1,41.14961,-8.61099
+523,Petit Hotel Plaza Mayor 523,Bourdeaux,France,1,44.84044,-0.5805
+524,Hostal Ritz 524,Nantes,France,2,47.21725,-1.55336
+525,Maison Los Escudos 525,Palermo,Italy,3,38.13205,13.33561
+526,Hostal Luxor 526,Paris,France,5,48.85341,2.3488
+527,Casa Vacaciones 527,Nantes,France,2,47.21725,-1.55336
+528,Aparta Hotel Ritz 528,Porto,Portugal,4,41.14961,-8.61099
+529,Castillo Sol 529,Cascais,Portugal,5,38.6979,-9.42146
+530,Casona Plaza Mayor 530,Paris,France,1,48.85341,2.3488
+531,Palace Garcia 531,Paris,France,1,48.85341,2.3488
+532,Aparta Hotel Lavapies 532,Palermo,Italy,1,38.13205,13.33561
+533,Parador Bit 533,Florencia,Italy,1,43.77925,11.24626
+534,Hotel Paraiso 534,Nice,France,1,43.70313,7.26608
+535,Maison Mira Sierra 535,Estoril,Portugal,1,38.70571,-9.39773
+536,Palace Los Pinos 536,Salamanca,Spain,4,40.955967,-5.6802244
+537,Parador Mira Sierra 537,Nice,France,6,43.70313,7.26608
+538,Hotel Ciudad del Sol 538,Barcelona,Spain,6,41.3818,2.1685
+539,Melia Mira Sierra 539,Lyon,France,6,45.74846,4.84671
+540,Palace Mira Sierra 540,Cascais,Portugal,1,38.6979,-9.42146
+541,Hotel Ciudad del Sol 541,Salamanca,Spain,1,40.955967,-5.6802244
+542,Petit Hotel International 542,Porto,Portugal,1,41.14961,-8.61099
+543,Vincy Lavapies 543,Palermo,Italy,5,38.13205,13.33561
+544,Petit Hotel Garcia 544,Barcelona,Spain,5,41.3818,2.1685
+545,Castillo Sol 545,Milan,Italy,1,45.46427,9.18951
+546,Casona Orus 546,Estoril,Portugal,2,38.70571,-9.39773
+547,Parador Bit 547,Bourdeaux,France,4,44.84044,-0.5805
+548,Petit Hotel Puerta Bonita 548,Rome,Italy,2,41.89193,12.51133
+549,Casa Magenta 549,Palermo,Italy,6,38.13205,13.33561
+550,Vincy Plaza Mayor 550,Lyon,France,1,45.74846,4.84671
+551,Vincy Ritz 551,Palermo,Italy,4,38.13205,13.33561
+552,Aparta Hotel Mira Sierra 552,Valencia,Spain,4,39.456116,-0.3545661
+553,Vincy Ciudad del Sol 553,Cascais,Portugal,2,38.6979,-9.42146
+554,Hotel International 554,Palermo,Italy,6,38.13205,13.33561
+555,Hotel International 555,Cascais,Portugal,1,38.6979,-9.42146
+556,Melia Vacaciones 556,Sevilla,Spain,6,37.39141,-5.9591775
+557,Petit Hotel Garcia 557,Milan,Italy,5,45.46427,9.18951
+558,Vincy Paraiso 558,Estoril,Portugal,3,38.70571,-9.39773
+559,Maison Los Pinos 559,Porto,Portugal,2,41.14961,-8.61099
+560,Maison Los Pinos 560,Valencia,Spain,6,39.456116,-0.3545661
+561,Parador Sol 561,Florencia,Italy,1,43.77925,11.24626
+562,Hostal Bit 562,Bourdeaux,France,1,44.84044,-0.5805
+563,Hotelito Maravillas 563,Paris,France,5,48.85341,2.3488
+564,Castillo Maravillas 564,Sevilla,Spain,6,37.39141,-5.9591775
+565,Casona Luxor 565,Estoril,Portugal,1,38.70571,-9.39773
+566,Castillo Plaza Mayor 566,Valencia,Spain,1,39.456116,-0.3545661
+567,Maison Bit 567,Florencia,Italy,5,43.77925,11.24626
+568,Maison Los Escudos 568,Madrid,Spain,6,40.489353,-3.6827462
+569,Melia Vacaciones 569,Sevilla,Spain,1,37.39141,-5.9591775
+570,Vincy Vacaciones 570,Bourdeaux,France,1,44.84044,-0.5805
+571,Parador Los Escudos 571,Bourdeaux,France,3,44.84044,-0.5805
+572,Hotel Ritz 572,Porto,Portugal,6,41.14961,-8.61099
+573,Parador Sol 573,Barcelona,Spain,6,41.3818,2.1685
+574,Petit Hotel Los Escudos 574,Paris,France,6,48.85341,2.3488
+575,Palace Magenta 575,Porto,Portugal,1,41.14961,-8.61099
+576,Hotelito Puerta de Hierro 576,Cannes,France,3,43.55135,7.01275
+577,Hostal Magenta 577,Porto,Portugal,1,41.14961,-8.61099
+578,Hotel Plaza Mayor 578,Palermo,Italy,4,38.13205,13.33561
+579,Casona Garcia 579,Salamanca,Spain,2,40.955967,-5.6802244
+580,Casona Puerta Bonita 580,Cannes,France,6,43.55135,7.01275
+581,Castillo Magenta 581,Cannes,France,1,43.55135,7.01275
+582,Melia Lavapies 582,Milan,Italy,1,45.46427,9.18951
+583,Casona Garcia 583,Florencia,Italy,5,43.77925,11.24626
+584,Aparta Hotel Bit 584,Estoril,Portugal,1,38.70571,-9.39773
+585,Parador Ritz 585,Barcelona,Spain,6,41.3818,2.1685
+586,Parador Garcia 586,Bourdeaux,France,6,44.84044,-0.5805
+587,Parador Los Tilos 587,Cascais,Portugal,6,38.6979,-9.42146
+588,Castillo Vacaciones 588,Rome,Italy,1,41.89193,12.51133
+589,Hotel Los Pinos 589,Lisboa,Portugal,5,38.71667,-9.13333
+590,Hostal Uria 590,Cascais,Portugal,6,38.6979,-9.42146
+591,Petit Hotel Los Tilos 591,Madrid,Spain,1,40.489353,-3.6827462
+592,Petit Hotel Maravillas 592,Porto,Portugal,6,41.14961,-8.61099
+593,Maison Los Tilos 593,Lisboa,Portugal,6,38.71667,-9.13333
+594,Aparta Hotel Plaza Mayor 594,Florencia,Italy,4,43.77925,11.24626
+595,Hotel Plaza Mayor 595,Rome,Italy,1,41.89193,12.51133
+596,Maison Magenta 596,Lyon,France,6,45.74846,4.84671
+597,Casona Garcia 597,Florencia,Italy,6,43.77925,11.24626
+598,Melia Ciudad del Sol 598,Valencia,Spain,6,39.456116,-0.3545661
+599,Palace Magenta 599,Estoril,Portugal,3,38.70571,-9.39773
+600,Melia Lavapies 600,Paris,France,6,48.85341,2.3488
+601,Casa Lavapies 601,Florencia,Italy,1,43.77925,11.24626
+602,Aparta Hotel Los Pinos 602,Barcelona,Spain,4,41.3818,2.1685
+603,Vincy Mira Sierra 603,Cascais,Portugal,1,38.6979,-9.42146
+604,Castillo Bit 604,Nice,France,4,43.70313,7.26608
+605,Castillo Ciudad del Sol 605,Florencia,Italy,6,43.77925,11.24626
+606,Hostal Bit 606,Valencia,Spain,6,39.456116,-0.3545661
+607,Castillo Plaza Mayor 607,Bourdeaux,France,1,44.84044,-0.5805
+608,Castillo Paraiso 608,Lisboa,Portugal,3,38.71667,-9.13333
+609,Vincy Garcia 609,Porto,Portugal,2,41.14961,-8.61099
+610,Melia Vacaciones 610,Madrid,Spain,1,40.489353,-3.6827462
+611,Petit Hotel Ciudad del Sol 611,Palermo,Italy,4,38.13205,13.33561
+612,Palace Maravillas 612,Rome,Italy,1,41.89193,12.51133
+613,Casona Maravillas 613,Paris,France,1,48.85341,2.3488
+614,Maison Puerta de Hierro 614,Cascais,Portugal,6,38.6979,-9.42146
+615,Petit Hotel Las Letras 615,Florencia,Italy,6,43.77925,11.24626
+616,Palace Mar de Alboran 616,Sevilla,Spain,6,37.39141,-5.9591775
+617,Castillo Sol 617,Barcelona,Spain,3,41.3818,2.1685
+618,Vincy Lavapies 618,Nice,France,1,43.70313,7.26608
+619,Vincy Puerta de Hierro 619,Rome,Italy,1,41.89193,12.51133
+620,Maison Paraiso 620,Palermo,Italy,6,38.13205,13.33561
+621,Castillo Ciudad del Sol 621,Rome,Italy,6,41.89193,12.51133
+622,Petit Hotel Las Letras 622,Cannes,France,1,43.55135,7.01275
+623,Maison Sol 623,Paris,France,4,48.85341,2.3488
+624,Parador Mira Sierra 624,Nantes,France,4,47.21725,-1.55336
+625,Vincy Bit 625,Valencia,Spain,6,39.456116,-0.3545661
+626,Castillo Mar de Alboran 626,Bourdeaux,France,1,44.84044,-0.5805
+627,Casona Luxor 627,Bourdeaux,France,2,44.84044,-0.5805
+628,Aparta Hotel Puerta Bonita 628,Estoril,Portugal,5,38.70571,-9.39773
+629,Castillo Sol 629,Sevilla,Spain,6,37.39141,-5.9591775
+630,Hotelito Paraiso 630,Cannes,France,6,43.55135,7.01275
+631,Petit Hotel Mira Sierra 631,Estoril,Portugal,3,38.70571,-9.39773
+632,Melia Mira Sierra 632,Milan,Italy,4,45.46427,9.18951
+633,Casa Ciudad del Sol 633,Nice,France,5,43.70313,7.26608
+634,Casa Plaza Mayor 634,Lyon,France,1,45.74846,4.84671
+635,Parador Mar de Alboran 635,Milan,Italy,3,45.46427,9.18951
+636,Maison Los Tilos 636,Madrid,Spain,6,40.489353,-3.6827462
+637,Petit Hotel Garcia 637,Nice,France,1,43.70313,7.26608
+638,Hotelito Garcia 638,Palermo,Italy,2,38.13205,13.33561
+639,Palace Luxor 639,Nice,France,6,43.70313,7.26608
+640,Vincy International 640,Sevilla,Spain,4,37.39141,-5.9591775
+641,Aparta Hotel Los Escudos 641,Barcelona,Spain,5,41.3818,2.1685
+642,Palace Garcia 642,Lyon,France,1,45.74846,4.84671
+643,Melia Magenta 643,Lisboa,Portugal,4,38.71667,-9.13333
+644,Hotelito Lavapies 644,Rome,Italy,1,41.89193,12.51133
+645,Melia Paraiso 645,Lisboa,Portugal,6,38.71667,-9.13333
+646,Vincy Mar de Alboran 646,Cannes,France,6,43.55135,7.01275
+647,Vincy Vacaciones 647,Lisboa,Portugal,1,38.71667,-9.13333
+648,Hotel Los Tilos 648,Barcelona,Spain,6,41.3818,2.1685
+649,Petit Hotel Orus 649,Barcelona,Spain,1,41.3818,2.1685
+650,Petit Hotel Puerta de Hierro 650,Cascais,Portugal,5,38.6979,-9.42146
+651,Maison Maravillas 651,Cannes,France,2,43.55135,7.01275
+652,Melia Mira Sierra 652,Barcelona,Spain,6,41.3818,2.1685
+653,Maison Mar de Alboran 653,Sevilla,Spain,3,37.39141,-5.9591775
+654,Vincy International 654,Estoril,Portugal,1,38.70571,-9.39773
+655,Casa Paraiso 655,Salamanca,Spain,4,40.955967,-5.6802244
+656,Castillo Bit 656,Sevilla,Spain,4,37.39141,-5.9591775
+657,Maison Los Tilos 657,Paris,France,4,48.85341,2.3488
+658,Vincy Mar de Alboran 658,Milan,Italy,6,45.46427,9.18951
+659,Petit Hotel Lavapies 659,Lisboa,Portugal,2,38.71667,-9.13333
+660,Petit Hotel Ritz 660,Estoril,Portugal,6,38.70571,-9.39773
+661,Parador Maravillas 661,Paris,France,6,48.85341,2.3488
+662,Hotelito Luxor 662,Porto,Portugal,2,41.14961,-8.61099
+663,Maison Plaza Mayor 663,Valencia,Spain,1,39.456116,-0.3545661
+664,Hotelito Orus 664,Valencia,Spain,1,39.456116,-0.3545661
+665,Casa Orus 665,Florencia,Italy,5,43.77925,11.24626
+666,Castillo Maravillas 666,Milan,Italy,6,45.46427,9.18951
+667,Hotelito Mira Sierra 667,Sevilla,Spain,6,37.39141,-5.9591775
+668,Aparta Hotel Sol 668,Cascais,Portugal,5,38.6979,-9.42146
+669,Palace Ritz 669,Valencia,Spain,1,39.456116,-0.3545661
+670,Castillo Ritz 670,Nantes,France,1,47.21725,-1.55336
+671,Vincy Sol 671,Lyon,France,1,45.74846,4.84671
+672,Vincy Maravillas 672,Madrid,Spain,1,40.489353,-3.6827462
+673,Hostal Los Escudos 673,Madrid,Spain,5,40.489353,-3.6827462
+674,Aparta Hotel Lavapies 674,Salamanca,Spain,5,40.955967,-5.6802244
+675,Parador Orus 675,Florencia,Italy,4,43.77925,11.24626
+676,Castillo Uria 676,Porto,Portugal,6,41.14961,-8.61099
+677,Castillo Los Pinos 677,Barcelona,Spain,1,41.3818,2.1685
+678,Melia Los Escudos 678,Cascais,Portugal,1,38.6979,-9.42146
+679,Casa Orus 679,Lisboa,Portugal,2,38.71667,-9.13333
+680,Vincy Los Pinos 680,Florencia,Italy,3,43.77925,11.24626
+681,Aparta Hotel International 681,Sevilla,Spain,6,37.39141,-5.9591775
+682,Casa Luxor 682,Lisboa,Portugal,1,38.71667,-9.13333
+683,Casa Lavapies 683,Salamanca,Spain,2,40.955967,-5.6802244
+684,Palace Mar de Alboran 684,Milan,Italy,6,45.46427,9.18951
+685,Parador Las Letras 685,Paris,France,6,48.85341,2.3488
+686,Vincy Uria 686,Bourdeaux,France,6,44.84044,-0.5805
+687,Hotelito Uria 687,Cascais,Portugal,1,38.6979,-9.42146
+688,Vincy Puerta de Hierro 688,Florencia,Italy,4,43.77925,11.24626
+689,Petit Hotel Vacaciones 689,Paris,France,5,48.85341,2.3488
+690,Vincy Orus 690,Rome,Italy,1,41.89193,12.51133
+691,Castillo Mar de Alboran 691,Nantes,France,1,47.21725,-1.55336
+692,Aparta Hotel Orus 692,Cascais,Portugal,1,38.6979,-9.42146
+693,Vincy Las Letras 693,Porto,Portugal,1,41.14961,-8.61099
+694,Hotel Orus 694,Nantes,France,3,47.21725,-1.55336
+695,Hotelito Mar de Alboran 695,Cascais,Portugal,1,38.6979,-9.42146
+696,Aparta Hotel Maravillas 696,Nantes,France,6,47.21725,-1.55336
+697,Hotel Puerta Bonita 697,Nantes,France,3,47.21725,-1.55336
+698,Hostal Paraiso 698,Milan,Italy,3,45.46427,9.18951
+699,Hotelito Lavapies 699,Nice,France,1,43.70313,7.26608
+700,Hotel Mira Sierra 700,Porto,Portugal,5,41.14961,-8.61099
+701,Petit Hotel Los Pinos 701,Valencia,Spain,1,39.456116,-0.3545661
+702,Hotelito Los Pinos 702,Milan,Italy,4,45.46427,9.18951
+703,Hotelito Paraiso 703,Estoril,Portugal,6,38.70571,-9.39773
+704,Castillo Uria 704,Paris,France,2,48.85341,2.3488
+705,Palace Sol 705,Milan,Italy,3,45.46427,9.18951
+706,Palace Ritz 706,Sevilla,Spain,1,37.39141,-5.9591775
+707,Hotel Las Letras 707,Lyon,France,4,45.74846,4.84671
+708,Hotel Magenta 708,Valencia,Spain,1,39.456116,-0.3545661
+709,Maison Las Letras 709,Bourdeaux,France,6,44.84044,-0.5805
+710,Hotelito Magenta 710,Estoril,Portugal,2,38.70571,-9.39773
+711,Castillo Los Escudos 711,Sevilla,Spain,1,37.39141,-5.9591775
+712,Melia Mira Sierra 712,Cascais,Portugal,1,38.6979,-9.42146
+713,Casona Orus 713,Paris,France,2,48.85341,2.3488
+714,Vincy Ritz 714,Salamanca,Spain,3,40.955967,-5.6802244
+715,Palace Luxor 715,Rome,Italy,6,41.89193,12.51133
+716,Parador Vacaciones 716,Milan,Italy,1,45.46427,9.18951
+717,Maison Ritz 717,Valencia,Spain,1,39.456116,-0.3545661
+718,Melia Maravillas 718,Paris,France,4,48.85341,2.3488
+719,Hostal Los Pinos 719,Paris,France,6,48.85341,2.3488
+720,Palace Puerta de Hierro 720,Rome,Italy,2,41.89193,12.51133
+721,Hostal Vacaciones 721,Salamanca,Spain,1,40.955967,-5.6802244
+722,Aparta Hotel Lavapies 722,Madrid,Spain,1,40.489353,-3.6827462
+723,Petit Hotel Luxor 723,Florencia,Italy,3,43.77925,11.24626
+724,Aparta Hotel Bit 724,Cascais,Portugal,1,38.6979,-9.42146
+725,Hotelito Mira Sierra 725,Nantes,France,2,47.21725,-1.55336
+726,Palace Ritz 726,Cannes,France,5,43.55135,7.01275
+727,Vincy Las Letras 727,Nantes,France,6,47.21725,-1.55336
+728,Melia Los Pinos 728,Lyon,France,6,45.74846,4.84671
+729,Hostal Puerta de Hierro 729,Salamanca,Spain,3,40.955967,-5.6802244
+730,Castillo Los Pinos 730,Florencia,Italy,5,43.77925,11.24626
+731,Hotelito Luxor 731,Estoril,Portugal,6,38.70571,-9.39773
+732,Hotel Puerta de Hierro 732,Salamanca,Spain,4,40.955967,-5.6802244
+733,Vincy Ritz 733,Paris,France,1,48.85341,2.3488
+734,Vincy Luxor 734,Cascais,Portugal,6,38.6979,-9.42146
+735,Parador Sol 735,Madrid,Spain,1,40.489353,-3.6827462
+736,Casa Garcia 736,Florencia,Italy,1,43.77925,11.24626
+737,Maison Las Letras 737,Palermo,Italy,1,38.13205,13.33561
+738,Vincy Los Tilos 738,Paris,France,4,48.85341,2.3488
+739,Hotelito Las Letras 739,Rome,Italy,1,41.89193,12.51133
+740,Vincy Los Pinos 740,Milan,Italy,1,45.46427,9.18951
+741,Vincy Los Escudos 741,Madrid,Spain,1,40.489353,-3.6827462
+742,Casa Bit 742,Paris,France,5,48.85341,2.3488
+743,Casona Paraiso 743,Lisboa,Portugal,6,38.71667,-9.13333
+744,Melia Sol 744,Lisboa,Portugal,3,38.71667,-9.13333
+745,Parador Vacaciones 745,Estoril,Portugal,4,38.70571,-9.39773
+746,Aparta Hotel Vacaciones 746,Palermo,Italy,1,38.13205,13.33561
+747,Castillo Orus 747,Valencia,Spain,2,39.456116,-0.3545661
+748,Aparta Hotel Mira Sierra 748,Barcelona,Spain,3,41.3818,2.1685
+749,Palace Las Letras 749,Madrid,Spain,1,40.489353,-3.6827462
+750,Melia Lavapies 750,Palermo,Italy,6,38.13205,13.33561
+751,Maison Puerta Bonita 751,Rome,Italy,1,41.89193,12.51133
+752,Hotelito Mar de Alboran 752,Porto,Portugal,1,41.14961,-8.61099
+753,Casa Puerta de Hierro 753,Madrid,Spain,2,40.489353,-3.6827462
+754,Hostal Los Tilos 754,Palermo,Italy,6,38.13205,13.33561
+755,Vincy Maravillas 755,Paris,France,1,48.85341,2.3488
+756,Melia Plaza Mayor 756,Salamanca,Spain,6,40.955967,-5.6802244
+757,Aparta Hotel Paraiso 757,Rome,Italy,6,41.89193,12.51133
+758,Maison Luxor 758,Estoril,Portugal,1,38.70571,-9.39773
+759,Casona Ciudad del Sol 759,Madrid,Spain,3,40.489353,-3.6827462
+760,Casona Mira Sierra 760,Barcelona,Spain,3,41.3818,2.1685
+761,Parador Los Tilos 761,Rome,Italy,5,41.89193,12.51133
+762,Castillo Vacaciones 762,Estoril,Portugal,6,38.70571,-9.39773
+763,Hotelito Paraiso 763,Nice,France,1,43.70313,7.26608
+764,Hostal Mar de Alboran 764,Porto,Portugal,1,41.14961,-8.61099
+765,Hostal Puerta Bonita 765,Milan,Italy,2,45.46427,9.18951
+766,Hotel Vacaciones 766,Cannes,France,6,43.55135,7.01275
+767,Castillo Bit 767,Nantes,France,1,47.21725,-1.55336
+768,Petit Hotel Los Pinos 768,Lyon,France,3,45.74846,4.84671
+769,Hotelito Luxor 769,Salamanca,Spain,1,40.955967,-5.6802244
+770,Casa Lavapies 770,Bourdeaux,France,6,44.84044,-0.5805
+771,Vincy Vacaciones 771,Salamanca,Spain,1,40.955967,-5.6802244
+772,Casona Lavapies 772,Milan,Italy,4,45.46427,9.18951
+773,Parador Lavapies 773,Lyon,France,3,45.74846,4.84671
+774,Hotelito Los Pinos 774,Florencia,Italy,2,43.77925,11.24626
+775,Castillo Puerta de Hierro 775,Milan,Italy,6,45.46427,9.18951
+776,Palace Mar de Alboran 776,Estoril,Portugal,2,38.70571,-9.39773
+777,Maison Sol 777,Salamanca,Spain,6,40.955967,-5.6802244
+778,Castillo Paraiso 778,Valencia,Spain,1,39.456116,-0.3545661
+779,Petit Hotel Luxor 779,Nantes,France,1,47.21725,-1.55336
+780,Maison Plaza Mayor 780,Nantes,France,1,47.21725,-1.55336
+781,Parador Plaza Mayor 781,Rome,Italy,5,41.89193,12.51133
+782,Melia International 782,Florencia,Italy,1,43.77925,11.24626
+783,Aparta Hotel Lavapies 783,Valencia,Spain,1,39.456116,-0.3545661
+784,Casona Mar de Alboran 784,Lyon,France,1,45.74846,4.84671
+785,Casona Mira Sierra 785,Madrid,Spain,6,40.489353,-3.6827462
+786,Casa Garcia 786,Lisboa,Portugal,6,38.71667,-9.13333
+787,Melia Maravillas 787,Nantes,France,4,47.21725,-1.55336
+788,Aparta Hotel Mar de Alboran 788,Madrid,Spain,6,40.489353,-3.6827462
+789,Maison Los Escudos 789,Bourdeaux,France,4,44.84044,-0.5805
+790,Castillo International 790,Porto,Portugal,1,41.14961,-8.61099
+791,Castillo Magenta 791,Estoril,Portugal,1,38.70571,-9.39773
+792,Melia Plaza Mayor 792,Florencia,Italy,2,43.77925,11.24626
+793,Casona Plaza Mayor 793,Estoril,Portugal,5,38.70571,-9.39773
+794,Palace Los Escudos 794,Palermo,Italy,1,38.13205,13.33561
+795,Castillo Garcia 795,Salamanca,Spain,6,40.955967,-5.6802244
+796,Palace Lavapies 796,Florencia,Italy,1,43.77925,11.24626
+797,Castillo Los Tilos 797,Palermo,Italy,3,38.13205,13.33561
+798,Vincy Los Escudos 798,Lisboa,Portugal,3,38.71667,-9.13333
+799,Aparta Hotel Maravillas 799,Milan,Italy,1,45.46427,9.18951
+800,Aparta Hotel Magenta 800,Lisboa,Portugal,1,38.71667,-9.13333
+801,Aparta Hotel Orus 801,Nantes,France,1,47.21725,-1.55336
+802,Casona Los Tilos 802,Porto,Portugal,6,41.14961,-8.61099
+803,Casa Plaza Mayor 803,Nantes,France,6,47.21725,-1.55336
+804,Petit Hotel Maravillas 804,Nantes,France,1,47.21725,-1.55336
+805,Melia Bit 805,Salamanca,Spain,1,40.955967,-5.6802244
+806,Petit Hotel Plaza Mayor 806,Nice,France,5,43.70313,7.26608
+807,Castillo Luxor 807,Bourdeaux,France,2,44.84044,-0.5805
+808,Petit Hotel Garcia 808,Nantes,France,1,47.21725,-1.55336
+809,Hostal Plaza Mayor 809,Salamanca,Spain,1,40.955967,-5.6802244
+810,Aparta Hotel Mira Sierra 810,Nice,France,1,43.70313,7.26608
+811,Petit Hotel International 811,Madrid,Spain,1,40.489353,-3.6827462
+812,Casa Paraiso 812,Paris,France,2,48.85341,2.3488
+813,Palace Vacaciones 813,Cascais,Portugal,1,38.6979,-9.42146
+814,Petit Hotel Los Tilos 814,Florencia,Italy,5,43.77925,11.24626
+815,Petit Hotel Uria 815,Bourdeaux,France,2,44.84044,-0.5805
+816,Parador Mira Sierra 816,Salamanca,Spain,1,40.955967,-5.6802244
+817,Parador Luxor 817,Nice,France,2,43.70313,7.26608
+818,Hotel Plaza Mayor 818,Rome,Italy,5,41.89193,12.51133
+819,Hostal Maravillas 819,Barcelona,Spain,6,41.3818,2.1685
+820,Casa Bit 820,Cascais,Portugal,1,38.6979,-9.42146
+821,Palace Mar de Alboran 821,Florencia,Italy,2,43.77925,11.24626
+822,Aparta Hotel Vacaciones 822,Palermo,Italy,1,38.13205,13.33561
+823,Palace Paraiso 823,Nantes,France,4,47.21725,-1.55336
+824,Aparta Hotel Puerta Bonita 824,Salamanca,Spain,3,40.955967,-5.6802244
+825,Maison Magenta 825,Florencia,Italy,1,43.77925,11.24626
+826,Hotelito Las Letras 826,Valencia,Spain,3,39.456116,-0.3545661
+827,Aparta Hotel Mira Sierra 827,Madrid,Spain,1,40.489353,-3.6827462
+828,Hostal Ciudad del Sol 828,Lyon,France,6,45.74846,4.84671
+829,Casa Magenta 829,Estoril,Portugal,1,38.70571,-9.39773
+830,Hotelito Las Letras 830,Nantes,France,2,47.21725,-1.55336
+831,Melia International 831,Cannes,France,1,43.55135,7.01275
+832,Hotelito Los Pinos 832,Nantes,France,6,47.21725,-1.55336
+833,Hotel Ritz 833,Bourdeaux,France,1,44.84044,-0.5805
+834,Parador Luxor 834,Cascais,Portugal,2,38.6979,-9.42146
+835,Castillo Mira Sierra 835,Florencia,Italy,1,43.77925,11.24626
+836,Hotel International 836,Nice,France,6,43.70313,7.26608
+837,Hotelito Lavapies 837,Porto,Portugal,1,41.14961,-8.61099
+838,Parador Luxor 838,Palermo,Italy,1,38.13205,13.33561
+839,Petit Hotel Las Letras 839,Nice,France,6,43.70313,7.26608
+840,Melia Plaza Mayor 840,Cascais,Portugal,1,38.6979,-9.42146
+841,Vincy Puerta Bonita 841,Porto,Portugal,1,41.14961,-8.61099
+842,Melia Magenta 842,Nantes,France,6,47.21725,-1.55336
+843,Casa Bit 843,Lisboa,Portugal,6,38.71667,-9.13333
+844,Petit Hotel Los Escudos 844,Madrid,Spain,4,40.489353,-3.6827462
+845,Hostal Garcia 845,Valencia,Spain,2,39.456116,-0.3545661
+846,Aparta Hotel Magenta 846,Paris,France,4,48.85341,2.3488
+847,Petit Hotel Luxor 847,Milan,Italy,2,45.46427,9.18951
+848,Hotel Ritz 848,Madrid,Spain,2,40.489353,-3.6827462
+849,Hotel Lavapies 849,Bourdeaux,France,6,44.84044,-0.5805
+850,Castillo Garcia 850,Salamanca,Spain,6,40.955967,-5.6802244
+851,Castillo Bit 851,Sevilla,Spain,1,37.39141,-5.9591775
+852,Castillo Los Escudos 852,Porto,Portugal,1,41.14961,-8.61099
+853,Melia Garcia 853,Paris,France,6,48.85341,2.3488
+854,Maison Ritz 854,Sevilla,Spain,2,37.39141,-5.9591775
+855,Hostal Magenta 855,Florencia,Italy,1,43.77925,11.24626
+856,Hotel Los Tilos 856,Rome,Italy,1,41.89193,12.51133
+857,Parador Puerta de Hierro 857,Estoril,Portugal,3,38.70571,-9.39773
+858,Casa International 858,Lyon,France,1,45.74846,4.84671
+859,Maison Sol 859,Palermo,Italy,4,38.13205,13.33561
+860,Hotelito Bit 860,Salamanca,Spain,3,40.955967,-5.6802244
+861,Hotel Puerta Bonita 861,Lisboa,Portugal,1,38.71667,-9.13333
+862,Melia Puerta de Hierro 862,Barcelona,Spain,1,41.3818,2.1685
+863,Parador Puerta Bonita 863,Rome,Italy,6,41.89193,12.51133
+864,Parador Magenta 864,Valencia,Spain,2,39.456116,-0.3545661
+865,Vincy Lavapies 865,Madrid,Spain,6,40.489353,-3.6827462
+866,Petit Hotel Ciudad del Sol 866,Palermo,Italy,1,38.13205,13.33561
+867,Casona Uria 867,Barcelona,Spain,2,41.3818,2.1685
+868,Castillo Magenta 868,Bourdeaux,France,1,44.84044,-0.5805
+869,Parador Ritz 869,Paris,France,2,48.85341,2.3488
+870,Casona Uria 870,Cannes,France,1,43.55135,7.01275
+871,Palace Los Tilos 871,Florencia,Italy,1,43.77925,11.24626
+872,Hotelito Bit 872,Madrid,Spain,1,40.489353,-3.6827462
+873,Aparta Hotel Puerta Bonita 873,Lisboa,Portugal,1,38.71667,-9.13333
+874,Parador Puerta de Hierro 874,Bourdeaux,France,3,44.84044,-0.5805
+875,Aparta Hotel Los Pinos 875,Rome,Italy,2,41.89193,12.51133
+876,Hotel Los Escudos 876,Cannes,France,1,43.55135,7.01275
+877,Casa Puerta de Hierro 877,Paris,France,5,48.85341,2.3488
+878,Maison Bit 878,Porto,Portugal,6,41.14961,-8.61099
+879,Hotel Los Tilos 879,Palermo,Italy,1,38.13205,13.33561
+880,Hotel Plaza Mayor 880,Porto,Portugal,1,41.14961,-8.61099
+881,Casa Vacaciones 881,Milan,Italy,1,45.46427,9.18951
+882,Casa Vacaciones 882,Barcelona,Spain,4,41.3818,2.1685
+883,Hotelito Ritz 883,Barcelona,Spain,5,41.3818,2.1685
+884,Melia Luxor 884,Salamanca,Spain,4,40.955967,-5.6802244
+885,Petit Hotel Paraiso 885,Rome,Italy,6,41.89193,12.51133
+886,Petit Hotel Orus 886,Bourdeaux,France,5,44.84044,-0.5805
+887,Palace Lavapies 887,Milan,Italy,6,45.46427,9.18951
+888,Hotelito Los Escudos 888,Milan,Italy,5,45.46427,9.18951
+889,Castillo Maravillas 889,Florencia,Italy,2,43.77925,11.24626
+890,Melia International 890,Madrid,Spain,3,40.489353,-3.6827462
+891,Palace Ritz 891,Madrid,Spain,2,40.489353,-3.6827462
+892,Vincy Maravillas 892,Lyon,France,4,45.74846,4.84671
+893,Palace Ritz 893,Cannes,France,3,43.55135,7.01275
+894,Hotelito Las Letras 894,Milan,Italy,3,45.46427,9.18951
+895,Casona Ciudad del Sol 895,Cannes,France,1,43.55135,7.01275
+896,Melia Orus 896,Nantes,France,6,47.21725,-1.55336
+897,Hotel Plaza Mayor 897,Lisboa,Portugal,1,38.71667,-9.13333
+898,Casa Mira Sierra 898,Cascais,Portugal,1,38.6979,-9.42146
+899,Hotel Luxor 899,Florencia,Italy,6,43.77925,11.24626
+900,Hotelito Ritz 900,Estoril,Portugal,6,38.70571,-9.39773
+901,Hotelito Plaza Mayor 901,Nice,France,5,43.70313,7.26608
+902,Maison Uria 902,Cascais,Portugal,1,38.6979,-9.42146
+903,Hotel International 903,Madrid,Spain,1,40.489353,-3.6827462
+904,Melia Bit 904,Lisboa,Portugal,1,38.71667,-9.13333
+905,Hostal Ciudad del Sol 905,Madrid,Spain,1,40.489353,-3.6827462
+906,Hotel Mira Sierra 906,Rome,Italy,6,41.89193,12.51133
+907,Castillo Puerta de Hierro 907,Florencia,Italy,6,43.77925,11.24626
+908,Hotel International 908,Bourdeaux,France,3,44.84044,-0.5805
+909,Melia Mar de Alboran 909,Cannes,France,4,43.55135,7.01275
+910,Petit Hotel International 910,Florencia,Italy,6,43.77925,11.24626
+911,Casona International 911,Madrid,Spain,6,40.489353,-3.6827462
+912,Melia Los Escudos 912,Nice,France,1,43.70313,7.26608
+913,Melia Puerta Bonita 913,Bourdeaux,France,1,44.84044,-0.5805
+914,Hotel Paraiso 914,Salamanca,Spain,6,40.955967,-5.6802244
+915,Petit Hotel Las Letras 915,Milan,Italy,1,45.46427,9.18951
+916,Vincy Puerta Bonita 916,Lyon,France,3,45.74846,4.84671
+917,Casona International 917,Palermo,Italy,3,38.13205,13.33561
+918,Hotelito Paraiso 918,Bourdeaux,France,4,44.84044,-0.5805
+919,Hostal Maravillas 919,Paris,France,2,48.85341,2.3488
+920,Petit Hotel Orus 920,Salamanca,Spain,1,40.955967,-5.6802244
+921,Aparta Hotel Ciudad del Sol 921,Madrid,Spain,1,40.489353,-3.6827462
+922,Melia Ritz 922,Cascais,Portugal,6,38.6979,-9.42146
+923,Maison Puerta Bonita 923,Estoril,Portugal,1,38.70571,-9.39773
+924,Aparta Hotel International 924,Bourdeaux,France,1,44.84044,-0.5805
+925,Vincy Plaza Mayor 925,Madrid,Spain,4,40.489353,-3.6827462
+926,Casa Los Escudos 926,Palermo,Italy,2,38.13205,13.33561
+927,Petit Hotel Garcia 927,Palermo,Italy,1,38.13205,13.33561
+928,Casona International 928,Bourdeaux,France,3,44.84044,-0.5805
+929,Hotelito Puerta Bonita 929,Florencia,Italy,5,43.77925,11.24626
+930,Casona Ciudad del Sol 930,Milan,Italy,2,45.46427,9.18951
+931,Melia Plaza Mayor 931,Salamanca,Spain,4,40.955967,-5.6802244
+932,Aparta Hotel Orus 932,Salamanca,Spain,1,40.955967,-5.6802244
+933,Hotelito Puerta Bonita 933,Sevilla,Spain,2,37.39141,-5.9591775
+934,Maison Uria 934,Bourdeaux,France,1,44.84044,-0.5805
+935,Petit Hotel Las Letras 935,Barcelona,Spain,1,41.3818,2.1685
+936,Melia Los Escudos 936,Sevilla,Spain,6,37.39141,-5.9591775
+937,Petit Hotel Orus 937,Lyon,France,6,45.74846,4.84671
+938,Casona Los Tilos 938,Paris,France,3,48.85341,2.3488
+939,Palace Maravillas 939,Barcelona,Spain,6,41.3818,2.1685
+940,Casa Las Letras 940,Milan,Italy,6,45.46427,9.18951
+941,Casona Vacaciones 941,Lyon,France,6,45.74846,4.84671
+942,Melia Luxor 942,Madrid,Spain,1,40.489353,-3.6827462
+943,Casa Los Pinos 943,Madrid,Spain,1,40.489353,-3.6827462
+944,Casona Plaza Mayor 944,Cascais,Portugal,1,38.6979,-9.42146
+945,Parador Garcia 945,Rome,Italy,5,41.89193,12.51133
+946,Maison Mira Sierra 946,Bourdeaux,France,1,44.84044,-0.5805
+947,Palace Paraiso 947,Valencia,Spain,1,39.456116,-0.3545661
+948,Parador Ritz 948,Cannes,France,1,43.55135,7.01275
+949,Hotelito International 949,Barcelona,Spain,6,41.3818,2.1685
+950,Vincy Garcia 950,Lyon,France,6,45.74846,4.84671
+951,Petit Hotel Plaza Mayor 951,Estoril,Portugal,1,38.70571,-9.39773
+952,Palace Las Letras 952,Salamanca,Spain,4,40.955967,-5.6802244
+953,Parador Puerta de Hierro 953,Madrid,Spain,6,40.489353,-3.6827462
+954,Vincy Puerta Bonita 954,Madrid,Spain,2,40.489353,-3.6827462
+955,Hostal Mar de Alboran 955,Florencia,Italy,5,43.77925,11.24626
+956,Aparta Hotel Luxor 956,Bourdeaux,France,1,44.84044,-0.5805
+957,Maison Los Escudos 957,Milan,Italy,3,45.46427,9.18951
+958,Aparta Hotel Los Tilos 958,Nice,France,1,43.70313,7.26608
+959,Castillo Orus 959,Sevilla,Spain,1,37.39141,-5.9591775
+960,Casona Mira Sierra 960,Cascais,Portugal,6,38.6979,-9.42146
+961,Hostal Bit 961,Cannes,France,1,43.55135,7.01275
+962,Parador Luxor 962,Nantes,France,1,47.21725,-1.55336
+963,Palace Las Letras 963,Milan,Italy,3,45.46427,9.18951
+964,Hostal Los Pinos 964,Valencia,Spain,5,39.456116,-0.3545661
+965,Parador Los Tilos 965,Barcelona,Spain,6,41.3818,2.1685
+966,Palace Mira Sierra 966,Sevilla,Spain,1,37.39141,-5.9591775
+967,Hostal Mar de Alboran 967,Porto,Portugal,1,41.14961,-8.61099
+968,Vincy Garcia 968,Madrid,Spain,1,40.489353,-3.6827462
+969,Parador Orus 969,Valencia,Spain,4,39.456116,-0.3545661
+970,Aparta Hotel Vacaciones 970,Paris,France,1,48.85341,2.3488
+971,Hostal Garcia 971,Salamanca,Spain,6,40.955967,-5.6802244
+972,Casona Bit 972,Nantes,France,1,47.21725,-1.55336
+973,Petit Hotel Mira Sierra 973,Bourdeaux,France,6,44.84044,-0.5805
+974,Castillo Orus 974,Lyon,France,6,45.74846,4.84671
+975,Maison Mira Sierra 975,Madrid,Spain,1,40.489353,-3.6827462
+976,Casa Plaza Mayor 976,Cascais,Portugal,1,38.6979,-9.42146
+977,Parador Orus 977,Palermo,Italy,6,38.13205,13.33561
+978,Maison Puerta de Hierro 978,Lyon,France,2,45.74846,4.84671
+979,Casa Mar de Alboran 979,Nice,France,1,43.70313,7.26608
+980,Petit Hotel Maravillas 980,Porto,Portugal,1,41.14961,-8.61099
+981,Petit Hotel Los Tilos 981,Paris,France,6,48.85341,2.3488
+982,Castillo Los Escudos 982,Barcelona,Spain,1,41.3818,2.1685
+983,Hotelito Los Escudos 983,Rome,Italy,1,41.89193,12.51133
+984,Petit Hotel Mar de Alboran 984,Cannes,France,4,43.55135,7.01275
+985,Melia Paraiso 985,Cannes,France,1,43.55135,7.01275
+986,Petit Hotel Maravillas 986,Nice,France,1,43.70313,7.26608
+987,Aparta Hotel Orus 987,Lisboa,Portugal,6,38.71667,-9.13333
+988,Hotelito Sol 988,Bourdeaux,France,3,44.84044,-0.5805
+989,Petit Hotel Las Letras 989,Madrid,Spain,6,40.489353,-3.6827462
+990,Parador Plaza Mayor 990,Cascais,Portugal,6,38.6979,-9.42146
+991,Palace Plaza Mayor 991,Cannes,France,6,43.55135,7.01275
+992,Palace Los Pinos 992,Rome,Italy,6,41.89193,12.51133
+993,Aparta Hotel Los Tilos 993,Nice,France,6,43.70313,7.26608
+994,Parador Plaza Mayor 994,Salamanca,Spain,1,40.955967,-5.6802244
+995,Aparta Hotel International 995,Lyon,France,4,45.74846,4.84671
+996,Hotelito Orus 996,Paris,France,1,48.85341,2.3488
+997,Hotelito Mar de Alboran 997,Nantes,France,2,47.21725,-1.55336
+998,Palace Mar de Alboran 998,Cannes,France,5,43.55135,7.01275
+999,Casa Vacaciones 999,Barcelona,Spain,5,41.3818,2.1685
+1000,Hotelito Maravillas 1000,Nice,France,1,43.70313,7.26608

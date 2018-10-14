@@ -1,0 +1,14 @@
+[Unit]
+Description=nosql lab workspace
+
+[Service]
+Restart=always
+
+# Compose up
+ExecStart=/home/nosql/datahack-nosql/start.sh
+
+# Compose down
+ExecStop=/home/nosql/datahack-nosql/stop.sh
+
+[Install]
+WantedBy=multi-user.target

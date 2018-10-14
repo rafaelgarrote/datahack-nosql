@@ -26,14 +26,16 @@ services:
     image: 'bitnami/cassandra:3.11.3'
     network_mode: "host"      
   jupyter:
-    image: 'jupyter/scipy-notebook' 
+    image: 'rafaelgarrote/scipy-notebook:v0.1' 
     network_mode: "host"
     #ports:
     #  - '8888:8888'
     environment:
       - JUPYTER_LAB_ENABLE=yes
+      - GRANT_SUDO=yes
+    user: root  
     volumes: 
-      - "/home/nosql/work:/home/jovyan/work"
+      - "/home/nosql/datahack-nosql/work:/home/jovyan/work"
     entrypoint: bash -c "start-notebook.sh --NotebookApp.token=''"  
 
   
