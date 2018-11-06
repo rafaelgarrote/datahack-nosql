@@ -13,3 +13,9 @@ Repo to build virtual machine for NoSQL Module Lab of Datahack BigData Master Cl
 * Zookeeper: https://hub.docker.com/r/bitnami/zookeeper/
 
 ## How to run
+
+sudo /etc/systemd/system/nosqllab.service 
+sudo systemctl daemon-reload
+sudo systemctl enable nosqllab.service
+sudo systemctl start nosqllab
+sudo systemctl status nosqllab
