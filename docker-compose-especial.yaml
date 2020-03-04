@@ -37,7 +37,7 @@ services:
     environment:
       - NEO4J_AUTH=neo4j/1234    
   jupyter:
-    image: 'rafaelgarrote/scipy-notebook:v0.1' 
+    image: 'rafaelgarrote/scipy-notebook:v0.3' 
     restart: always
     network_mode: "host"
     environment:
