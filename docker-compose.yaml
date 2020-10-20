@@ -3,7 +3,9 @@ services:
   elasticsearch:
     image: 'docker.elastic.co/elasticsearch/elasticsearch:7.5.1'
     restart: always
-    network_mode: "host"
+#    network_mode: "host"
+    ports:
+      - "9200:9200"
     environment: 
       - discovery.type=single-node
       - cluster.name=datahack-nosql
@@ -12,34 +14,43 @@ services:
       - path.repo=/usr/share/elasticsearch
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
 #    volumes:
-#      - "/home/rgarrote/apicompose/elasticdata:/usr/share/elasticsearch/data"
+#      - ".data/db/elasticsearch/data:/usr/share/elasticsearch/data"
   kibana:
     image: 'docker.elastic.co/kibana/kibana:7.5.1'
-    network_mode: "host"
+#    network_mode: "host"
+    ports:
+      - "5601:5601"
     environment:
       SERVER_NAME: datahack
-      ELASTICSEARCH_HOSTS: http://localhost:9200
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
   mongo:
     image: 'mongo:4.2'
     restart: always
-    network_mode: "host"
+#    network_mode: "host"
+    ports:
+      - "27017:27017"
     environment:
       MONGO_INITDB_ROOT_USERNAME: nosql
       MONGO_INITDB_ROOT_PASSWORD: nosql
   neo4j:
     image: 'neo4j:3.5.8'
     restart: always
-    network_mode: "host"
+#    network_mode: "host"
+    ports:
+      - "7474:7474"
+#      - "7687:7687"
     environment:
       - NEO4J_AUTH=neo4j/1234    
   jupyter:
     image: 'rafaelgarrote/scipy-notebook:v0.3' 
     restart: always
-    network_mode: "host"
+#    network_mode: "host"
+    ports:
+      - "8888:8889"
     environment:
       - JUPYTER_LAB_ENABLE=yes
       - GRANT_SUDO=yes
     user: root  
     volumes: 
-      - "/home/nosql/datahack-nosql/workespecial:/home/jovyan/work"
+      - "./work:/home/jovyan/work"
     entrypoint: bash -c "start-notebook.sh --NotebookApp.token=''"  
