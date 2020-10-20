@@ -1,41 +1,45 @@
-version: '3'
+version: '3.1'
 services:    
-  zookeeper:
-    image: 'bitnami/zookeeper:3.4.12'
+  elasticsearch:
+    image: 'docker.elastic.co/elasticsearch/elasticsearch:7.5.1'
+    restart: always
     network_mode: "host"
-    #ports: 
-    #  - '2181:2181'
+    environment: 
+      - discovery.type=single-node
+      - cluster.name=datahack-nosql
+      - http.cors.enabled=true
+      - http.cors.allow-origin=*
+      - path.repo=/usr/share/elasticsearch
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+#    volumes:
+#      - "/home/rgarrote/apicompose/elasticdata:/usr/share/elasticsearch/data"
+  kibana:
+    image: 'docker.elastic.co/kibana/kibana:7.5.1'
+    network_mode: "host"
     environment:
-      - ALLOW_ANONYMOUS_LOGIN=yes
-  kafka:
-    image: 'bitnami/kafka:2.0.0'
-    network_mode: "host" 
-    #ports:
-    #  - '9092:9092'   
+      SERVER_NAME: datahack
+      ELASTICSEARCH_HOSTS: http://localhost:9200
+  mongo:
+    image: 'mongo:4.2'
+    restart: always
+    network_mode: "host"
     environment:
-      - KAFKA_BROKER_ID=1
-      - KAFKA_ADVERTISED_HOST_NAME=localhost
-      - KAFKA_ZOOKEEPER_CONNECT=localhost:2181
-      - ALLOW_PLAINTEXT_LISTENER=yes 
-    extra_hosts:
-      - "linuxkit-025000000001:127.0.0.1"     
-    depends_on:
-      - zookeeper  
-    #entrypoint: bash -c "sleep 10 && app-entrypoint.sh"  
-  cassandra:
-    image: 'bitnami/cassandra:3.11.3'
-    network_mode: "host"      
+      MONGO_INITDB_ROOT_USERNAME: nosql
+      MONGO_INITDB_ROOT_PASSWORD: nosql
+  neo4j:
+    image: 'neo4j:3.5.8'
+    restart: always
+    network_mode: "host"
+    environment:
+      - NEO4J_AUTH=neo4j/1234    
   jupyter:
-    image: 'rafaelgarrote/scipy-notebook:v0.1' 
+    image: 'rafaelgarrote/scipy-notebook:v0.3' 
+    restart: always
     network_mode: "host"
-    #ports:
-    #  - '8888:8888'
     environment:
       - JUPYTER_LAB_ENABLE=yes
       - GRANT_SUDO=yes
     user: root  
     volumes: 
-      - "/home/nosql/datahack-nosql/work:/home/jovyan/work"
+      - "/home/nosql/datahack-nosql/workespecial:/home/jovyan/work"
     entrypoint: bash -c "start-notebook.sh --NotebookApp.token=''"  
-
-  
